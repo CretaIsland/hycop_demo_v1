@@ -84529,7 +84529,7 @@ case 2:p=J.ah(q.e,"AssetConfig")
 o=J.a0(p)
 n=o.h(p,"savePeriod")
 q.f=n==null?1000:n
-o=o.h(p,"sessionUrl")
+o=o.h(p,"sessionServerUrl")
 if(o==null)o="http://localhost:3000"
 q.r=o
 n=o.length-1
