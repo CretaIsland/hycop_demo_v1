@@ -17,25 +17,25 @@
             "messagingSenderId" : "724689601871"
         },
         "socketConnInfo" : {
-            "serverUrl" : "ws://127.0.0.1",
-            "serverPort" : "4432"
+            "serverUrl" : "https://hycop-socket.tk",
+            "serverPort" : "443"
         }
     },
     "AppwriteConfig" : {
         "dbConnInfo" : {
-            "apiKey" : "de04f1ce3c8e69e091b74bb8ebf1321484eb1c5bd384aaaa9ca201027d0e1dec64de67ae328fab89bc1ca341f0262d8679cd715b89955fed64304063a70d215eb79c33f2a19d290071e1fdc9682a09bfc49f602490974117a7853af2baad0a1a546c9dff999c62964440bdb4ceb0dcba131d4668d0b43dcf4b9c08e3aea949e0",
-            "databaseURL" : "https://hycop-api.tk/v1",
+            "apiKey" : "ad29cfe75ce0759fcfb0d8c0ca0d3832011871550bf5b17910c54ba0e2819ee65ba15404d778e64a0224a4744085e1a26612e9fcf6c675149827371282bddfb4a5b127002792c58e07b8c633de32b6e5ba039e60aeab3a63d1a9ff8f8cdcec728490fda66f3a7b5cef66e1390123c1b2f5d57a00d4235d2d07c2e3c7318b2646",
+            "databaseURL" : "https://appwrite-test.tk/v1",
             "projectId" : "hycopTest",
             "appId" : "hycopTestDB" 
         },
         "storageConnInfo" : {
-            "storageURL" : "https://hycop-api.tk/v1",
+            "storageURL" : "https://appwrite-test.tk/v1",
             "projectId" : "hycopTest",
-            "apiKey" : "de04f1ce3c8e69e091b74bb8ebf1321484eb1c5bd384aaaa9ca201027d0e1dec64de67ae328fab89bc1ca341f0262d8679cd715b89955fed64304063a70d215eb79c33f2a19d290071e1fdc9682a09bfc49f602490974117a7853af2baad0a1a546c9dff999c62964440bdb4ceb0dcba131d4668d0b43dcf4b9c08e3aea949e0"
+            "apiKey" : "ad29cfe75ce0759fcfb0d8c0ca0d3832011871550bf5b17910c54ba0e2819ee65ba15404d778e64a0224a4744085e1a26612e9fcf6c675149827371282bddfb4a5b127002792c58e07b8c633de32b6e5ba039e60aeab3a63d1a9ff8f8cdcec728490fda66f3a7b5cef66e1390123c1b2f5d57a00d4235d2d07c2e3c7318b2646"
         },
         "socketConnInfo" : {
-            "serverUrl" : "ws://127.0.0.1",
-            "serverPort" : "4432"
+            "serverUrl" : "https://hycop-socket.tk",
+            "serverPort" : "443"
         }
     },
     "AssetConfig" : {
