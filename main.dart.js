@@ -88357,7 +88357,7 @@ Hx(){var s=0,r=A.t(t.H),q=this,p
 var $async$Hx=A.o(function(a,b){if(a===1)return A.p(b,r)
 while(true)switch(s){case 0:p=A.w(t.N,t.z)
 p.l(0,"transports",A.a(["websocket"],t.s))
-p=A.aVA("https://hycop-socket.tk",p)
+p=A.aVA("https://hycop-socket.tk:443",p)
 q.a!==$&&A.dv()
 q.a=p
 p.Hu().cW(0,"error",new A.ax8())
